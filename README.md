@@ -9,4 +9,9 @@ Creata a web application that:
   *Undo<br>
   *Redo
 
-## Demo
+## Running it Locally
+
+```Bash
+yarn
+yarn dev
+```
